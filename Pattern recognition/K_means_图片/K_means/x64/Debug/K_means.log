@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  K_means.cpp
+f:\程序设计\pattern recognition\k_means_图片\k_means\k_means.cpp(72): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  K_means.vcxproj -> F:\程序设计\Pattern recognition\K_means_图片\x64\Debug\K_means.exe
